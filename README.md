@@ -98,3 +98,7 @@ By incorporating SHAP, this project ensures interpretability — a critical requ
 
 - Waterfall Plot Insight: For an individual prediction, SHAP showed how the base value was adjusted by each feature, clearly explaining the reasoning behind the final predicted price.
 ---
+#### Author  
+Aiswarya Lakshmi  
+MSc in Survey Research and Data Analytics  
+International Institute for Population Sciences (IIPS), Mumbai
